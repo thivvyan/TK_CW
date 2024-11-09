@@ -1,0 +1,17 @@
+.d-flex.justify-content-between { 
+    margin-top: 20px; 
+}
+.fs-5{
+    margin-top: 10px;
+}
+.carousel-item .card-img-top .active .img {
+    max-height: 600px;
+}
+#carouselExample .carousel-item img {  
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+    height:50vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
